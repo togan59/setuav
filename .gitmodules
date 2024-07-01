@@ -1,0 +1,4 @@
+[submodule "src/modules/uavcalc"]
+	path = src/modules/uavcalc
+	url = https://github.com/togan59/uavcalc.git
+	branch = master
